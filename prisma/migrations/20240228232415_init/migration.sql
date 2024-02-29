@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `car` MODIFY `nopol` VARCHAR(191) NOT NULL DEFAULT '';
